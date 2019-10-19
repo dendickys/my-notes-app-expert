@@ -1,4 +1,4 @@
-package com.example.mynotesappexpert.db;
+package com.example.consumerappexpert.db;
 
 import android.net.Uri;
 import android.provider.BaseColumns;
